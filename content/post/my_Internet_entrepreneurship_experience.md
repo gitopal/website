@@ -32,7 +32,7 @@ Search for "free white-collar workers" on Google, you can see the above content 
 
 We have newly defined the concept of free white-collar workers and clarified the connection and difference with overseas SOHO. The core of this is the business philosophy of the "Great Alliance".
 
-![](/images/14.jpg)
+![](/images/15.jpg)
 
 This is the second edition of the "Free White Collar" electronic publication published by China Electronic Audiovisual Press in 2001. I am the editor-in-chief. Simultaneously created the free white-collar alliance website (www.sohounite.com), which is four years earlier than the well-known Zhubajie（www.zbj.com） and Weike（www.vikecn.com/） in China. However, from the perspective of business philosophy, the business philosophy of freelance white-collar workers has so far surpassed them.
 
