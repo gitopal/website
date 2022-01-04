@@ -1,4 +1,4 @@
-baseURL = "https://topal.cn"
+baseURL = "/"
 title = "Topal Metaverse"
 languageCode = "en"
 enableInlineShortcodes = true
