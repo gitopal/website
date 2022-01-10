@@ -20,4 +20,3 @@ Many people may ask, who are you, what kind of experience and achievements you h
 - **[My Early Entrepreneurial Experience](/post/my_early_entrepreneurial_experience/)**
 - **[My Internet Entrepreneurship Experience](/post/my_internet_entrepreneurship_experience/)**
 - **[My Summary](/post/my_summary/)**
-- **[]
