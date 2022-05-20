@@ -64,11 +64,11 @@ customJs = ["js/blog.js"]
  # identifier = "posts"
  # url = "/posts/"
 
- # [[menu.main]]
- # name = "About"
- # identifier = "about"
- # weight = 300
- # url = "/about/"
+ [[menu.main]]
+name = "Famland Metaverse"
+identifier = "about"
+ weight = 300
+url = "/famland/"
 
 [taxonomies]
   category = "categories"
