@@ -1,5 +1,5 @@
 +++
-title = "Famland Metaverse"
+title = "Famland"
 author = "Topal"
 tags = ["metaverse"]
 +++
